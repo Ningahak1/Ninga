@@ -15,6 +15,6 @@ chmod +x *
 
 ls
 
-python attak.py
+python2 attak.py
 
 IP Target:?? port Target: 
