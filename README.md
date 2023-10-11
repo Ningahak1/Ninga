@@ -17,4 +17,4 @@ ls
 
 python2 Ningaah.py
 
-IP Target:?? port Target: 
+IP Target:?? port Target:80
