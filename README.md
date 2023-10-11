@@ -6,6 +6,7 @@ service blocking tool
 Doos attack
 
 install
+
 git clone https://github.com/Ningahak1/Ninga
 
 cd Ninga
